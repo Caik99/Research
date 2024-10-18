@@ -1,0 +1,48 @@
+Features in Normal dataset: 32
+Features in Quantile dataset: 31
+Common features: 24
+
+Common features:
+AddressOfEntryPoint
+Characteristics
+CheckSum
+DllCharacteristics
+FileAlignment
+ImageBase
+ImageDirectoryEntryImport
+ImageDirectoryEntrySecurity
+MinorLinkerVersion
+SectionMaxChar
+SectionMaxEntropy
+SectionMaxPhysical
+SectionMaxPointerData
+SectionMaxRawsize
+SectionMaxVirtualsize
+SectionMinEntropy
+SectionMinPhysical
+SectionMinVirtualsize
+SizeOfCode
+SizeOfHeaders
+SizeOfImage
+SizeOfInitializedData
+Subsystem
+TimeDateStamp
+
+Unique to Normal dataset (8):
+Machine
+Magic
+MajorLinkerVersion
+MajorSubsystemVersion
+NumberOfSections
+SectionMainChar
+SectionsLength
+SizeOfOptionalHeader
+
+Unique to Quantile dataset (7):
+DirectoryEntryExport
+DirectoryEntryImport
+ImageDirectoryEntryExport
+PointerToSymbolTable
+SectionMinPointerData
+SectionMinRawsize
+SizeOfUninitializedData
