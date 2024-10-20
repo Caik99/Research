@@ -1,4 +1,4 @@
-Features in Normal dataset: 32
+Features in MinMax dataset: 32
 Features in Quantile dataset: 31
 Common features: 24
 
