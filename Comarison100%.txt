@@ -1,4 +1,4 @@
-Features in Normal dataset: 31
+Features in MinMax dataset: 31
 Features in Quantile dataset: 31
 Common features: 24
 
@@ -28,7 +28,7 @@ SizeOfInitializedData
 Subsystem
 TimeDateStamp
 
-Unique to Normal dataset (7):
+Unique to MinMax dataset (7):
 Machine
 Magic
 MajorLinkerVersion
