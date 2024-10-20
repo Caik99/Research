@@ -28,7 +28,7 @@ SizeOfInitializedData
 Subsystem
 TimeDateStamp
 
-Unique to Normal dataset (8):
+Unique to MinMax dataset (8):
 Machine
 Magic
 MajorLinkerVersion
